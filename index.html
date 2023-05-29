@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amplifi</title>
+
+    <!-- Styles -->
+
+    <link
+      rel="stylesheet"
+      href="app/dist/swiper-bundle.min.css"
+    />
+
+    <link rel="stylesheet" href="app/dist/aos.css">
+    <link rel="stylesheet" href="app/dist/animate.css">
+    <link rel="stylesheet" href="app/dist/app.css">
+<link rel="stylesheet" 
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- end Styles -->
+
+    <!-- Favicon and Touch Icons  -->
+    <link rel="shortcut icon" href="assets/images/logo/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon.png">
+
+</head>
+<body class="home-main header-fixed">
+
+    <div class="wrapper">
+
+        <div class="preloader">
+            <div class="clear-loading loading-effect-2">
+            <span></span>
+            </div>
+        </div>
+
+    <!-- Header -->
+    <header id="header_main" class="header">
+        <div class="container big">
+            <div class="row">
+                <div class="col-12">
+                    <div class="header__body">
+                        <div class="header__logo">
+                            <a href="#">
+                                <img id="site-logo" src="assets/images/item/full_logo_thin.png"
+                                alt="Peson" width="160" height="38"
+                                data-retina="assets/images/item/full_logo_thin.png" data-width="160"
+                                data-height="38">
+                            </a>
+                        </div>
+
+                        <div class="header__right">
+                            <nav id="main-nav" class="main-nav">
+                                <ul id="menu-primary-menu" class="menu">
+
+                                    <li class="menu-item">
+                                        <a onclick="goTo('home');" href="#">Home</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a onclick="goTo('invest');" href="#">Invest</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a onclick="goTo('earn');" href="#">Earn</a>
+                                    </li>
+                                <!--<li class="menu-item">
+                                        <a href="#">Docs</a>
+                                    </li>-->  
+									<a href="#" style="background-image: linear-gradient(#212121, #212121), linear-gradient(137.48deg, #0d1ebe 10%, #0d1ebe 45%, #0d1ebe 67%, #0d1ebe 87%);" class="btnug me-2"><span>Lite-Paper</span></a>
+								   <a href="#" class="btnug"><span>Pre-Register</span></a>
+                                </ul>
+                            </nav>
+                            <div class="mobile-button"><span></span></div>
+                        </div>
+
+           
+        <div class="header__action d-flex">
+            
+        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- end Header -->
+
+    <!-- Banner -->
+    <section id="home" class="banner">
+        <div class="shape right"></div>
+        <div class="container big">
+            <div class="row">
+                <div class="col-xl-6 col-md-12">
+                    <div class="banner__left">
+                        <div class="block-text">
+                            <h2 style="font-size: 65px;" class="heading">The Ultimate DeFi Aggregtor <br>
+                                 <span class="s1 arlo_tm_animation_text_word"></span>
+                            </h2>
+                            <p style="font-size: 24px;" class="desc">Safe and secure DeFi protocols at your fingertips </p>
+
+                            <a href="#" class="btnug"><span>Pre-Register</span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-md-12">
+
+                    <div class="banner__right">
+                        <div class="image">
+                            <img src="assets/images/item/phone.png" alt="">
+                        </div>
+                        <div style="border-width:thick;" class="owner">
+                            <div class="image">
+                                <img src="assets/images/item/people.png" alt="">
+                            </div>
+                            <div class="content">
+                                <h5 class="text-white">Powered For</h5>
+                                <p class="text-white">The People</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Banner -->
+
+    <!-- About -->
+	
+<section id="invest" class="about">
+    <div class="shape"></div>
+    <div class="container">
+        <div class="row rev">
+            <div class="col-xl-6 col-md-12">
+                <div class="about__right">
+                    <div class="images">
+                        <img class="img1" src="assets/images/item/phoneEtf.png" alt="interestRateSix">
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 col-md-12">
+                <div class="block-text">
+                    <h3 class="heading wow" data-splitting>Secure</h3>
+                    <p style="font-size:24px;" class="mb-17">The DeFi protocols we work with are handpicked with care. At Amplifi we only partner with the best in the business, this means we only work with audited protocols that havea a track record of keeping user's funds safe.</p>
+                <br>
+                <a href="#" class="btnug"><span>Pre-Register</span></a>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+
+<section id="earn" class="about">
+    <div class="shape"></div>
+    <div class="container">
+        <div class="row rev">
+
+            <div class="col-xl-6 col-md-12">
+                <div class="about__right">
+                    <div >
+                        <img style="width:400px;" src="assets/images/item/percent6.png" alt="interestRateSix">
+                    </div>
+                </div>
+            </div>
+			            <div class="col-xl-6 col-md-12">
+                <div class="block-text">
+                    <h3 class="heading wow" data-splitting>Earn</h3>
+                    <p  style="font-size:24px;" class="mb-17">Earn high yields across a multitude of different cryptos based on your risk appetite. Simply choose a protocol, connect your wallet, select a pool and start earning.</p>
+                <br>
+             <a href="#" class="btnug"><span>Pre-Register</span></a>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+
+    <!-- End About -->
+	
+    <section class="speciality">
+        <div class="shape right"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="block-text center">
+                        <h3 class="heading wow" data-splitting>Robust <br>
+                            In All Domains</h3>
+                            <p  style="font-size:24px;" class="">The Amplifi team are constantly improving every aspect of the platform to bring you the best user experience possible</p>
+                            
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6">
+                    <div class="speciality-box" data-aos="fade-up" data-aos-duration="2000">
+                        <div class="icon">
+                            <img style="width:300px;" src="assets/images/icon/Security.svg"></img>
+                        </div>
+                        <h5 class="title">Security</h5>
+                        <p  style="font-size:24px;" >We use secure, audited, and collateralized protocols to generate high-yield returns</p>
+                        <h3 class="number">01</h3>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6">
+                    <div class="speciality-box" data-aos="fade-up" data-aos-duration="2400">
+                        <div class="icon">
+                            <img style="width:300px;" src="assets/images/icon/Transparancy.svg"></img>
+                        </div>
+                        <h5 class="title">Transparency</h5>
+                        <p  style="font-size:24px;" >Through the use of EVM technology, users can track how their funds are being utilized in real-time</p>
+                        <h3 class="number">02</h3>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6">
+                    <div class="speciality-box" data-aos="fade-up" data-aos-duration="2800">
+                        <div class="icon">
+                            <img style="width:300px;" src="assets/images/icon/Strategy.svg"></img> 
+                        </div>
+                        <h5 class="title">Strategy</h5>
+                        <p  style="font-size:21px;" >The use of ML & AI helps determine the best and most secure protocols to partner with. Giving users peace of mind.</p><br>
+                        <h3 class="number">03</h3>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6">
+                    <div class="speciality-box" data-aos="fade-up" data-aos-duration="3000">
+                        <div class="icon">
+                            <img style="width:300px;" src="assets/images/icon/Accessibility.svg"></img>    
+                        </div>
+                        <h5 class="title">Accessibility</h5>
+                        <p  style="font-size:24px;" >The platform is designed to provide a simple, quick, and painless way for everyone to earn yield</p>
+                        <h3 class="number">04</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="portfolio">
+        <div class="shape"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="block-text center">
+                        <h3 class="heading wow" data-splitting>Get Set Up And Start Earning <br>
+                            In Minutes</h3>
+                            
+                    </div>
+                </div>
+                <div class="col-xl-6 col-md-6">
+                    <div class="portfolio__left">
+                        <div style="border: solid; border-width:thick; border-radius:25px; border-color: #2BCBF1;" class="portfolio-box">
+                           
+                            <div class="icon">
+                                <img style="width:100px;" src="assets/images/icon/add-user1.svg"></img>  
+                            </div>
+                            <div class="content">
+                                <h5 class="title">Create An Account</h5>
+                                <p style="font-size:24px;" >Download the app and create an account to get started</p>
+                            </div>
+                        </div>
+                        <div style="border: solid; border-width:thick; border-radius:25px; border-color: #2BCBF1;" class="portfolio-box">
+                            
+                            <div class="icon">
+                                <img style="width:100px;" src="assets/images/icon/kyc1.svg"></img>
+                            </div>
+                            <div class="content">
+                                <h5 class="title">Browse Protocols</h5>
+                                <p style="font-size:24px;" >Choose from a list of secure, audited and vetted protocols to start earning interest</p>
+                            </div>
+                        </div>
+                        <div style="border: solid; border-width:thick; border-radius:25px; border-color: #2BCBF1;" class="portfolio-box">
+                       
+                            <div class="icon">
+                                <img style="width:100px;" src="assets/images/icon/topup1.svg"></img>
+                            </div>
+                            <div class="content">
+                                <h5 class="title">Connect Your Wallet</h5>
+                                <p style="font-size:24px;" >With EVM compatibility across multiple chains, connect your wallet and select the chain you wish to generate yield on</p>
+                            </div>
+                        </div>
+                        <div style="border: solid; border-width:thick; border-radius:25px; border-color: #2BCBF1;" class="portfolio-box">
+                      
+                            <div class="icon">
+							<img style="width:100px;" src="assets/images/icon/choose1.svg"></img>
+                            </div>
+                            <div class="content">
+                                <h5 class="title">Select Pool & Start Earning</h5>
+                                <p style="font-size:24px;" >Select the plan best suited to your needs and start earning immediately</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-6 col-md-6">
+                    <div class="portfolio__right">
+                        <div class="image" data-aos="fade-left" data-aos-duration="2000">
+                            <img class="" src="assets/images/item/phoneAnime.webp" alt="interestRateSix">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="create">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                     <div class="create__main">
+                        <div class="content mt-4">
+                            <h4 class="heading">Generate yield and plan for the future</h4>
+                            <p style="font-size:24px;" >Pre-register to keep up to date with the latest news and product updates</p>
+                            <a href="#" class="btnug mt-3"><span>Pre-Register</span></a>
+                        </div>
+                        <img style="width: 150px;" src="assets/images/item/logo_letter.png" alt="">
+                    </div>
+				</div>
+            </div>
+        </div>
+    </section>
+	
+    <footer id="sub" class="footer">
+        
+        <div class="shape"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="footer__main">
+                        <div class="block-text center">
+
+                            <h3 class="heading">Newsletter</h3>
+                            <p style="font-size:24px;" >Stay up to date with the latest industry news and trends</p>
+           
+                                
+                        </div>
+                        <form action="#" class="form">
+                            <div class="form-group">
+                                <input type="email" class="form-control" placeholder="Your email">
+								<div class="d-flex justify-content-center ">
+                                <button class="btnug"><span>Subscribe</span></button>
+								</div>
+                            </div>
+                            
+                        </form>
+                    </div>
+
+                    <div class="footer__bottom">
+                        <a href="#"  class="logo"><img style="width:160px;" src="assets/images/item/full_logo_thin.png" alt=""></a>
+
+                        <div class="center mb--30">
+                            <ul class="list">
+                                <li><a onclick="goTo('home');" href="#">Home</a></li>
+                                <li><a onclick="goTo('invest');" href="#">Invest</a></li>
+                                <li><a onclick="goTo('earn');" href="#">Earn</a></li>
+                   
+                                <li><a href="#">Lite-Paper</a></li>
+                            </ul>
+                            <p>Copyright © 2023, Amplifi.</p>
+                        </div>
+                        <ul class="list-social">
+                            <li><a href="#">
+                                <i class="fa-brands fa-telegram fa-2xl" style="color: #ffffff;"></i></a></li>
+                            <li><a href="#">
+                                <i class="fa-brands fa-twitter fa-2xl" style="color: #ffffff;"></i> 
+                            </a></li>
+                            <li><a href="#">
+                                <i class="fa-brands fa-linkedin-in fa-2xl" style="color: #ffffff;"></i>
+                            </a></li>
+                            <li><a href="#">
+                                <i class="fa-brands fa-discord fa-2xl" style="color: #ffffff;"></i>    
+                            </a></li>
+                        </ul>
+                    </div>
+
+                    
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+    <a id="scroll-top">Top</a>
+    
+    </div>
+	<script src="app/js/interestCalc.js"></script>
+    <script src="app/js/jquery.min.js"></script>
+    <script src="app/js/jquery.easing.js"></script>
+    <script src="app/js/jquery-migrate.min.js"></script>
+    <script src="app/js/plugins.js"></script>
+    <script src="app/js/countto.js"></script>
+    <script src="app/js/wow.min.js"></script>
+
+    <script src="app/js/app.js"></script>
+    <script src="app/js/count-down.js"></script>
+
+    <script src="app/js/aos.js"></script>
+
+
+      <script src="app/js/swiper-bundle.min.js"></script>
+      <script src="app/js/swiper.js"></script>
+
+    <!-- Initialize Swiper -->
+
+
+</body>
+</html>

@@ -1,0 +1,1069 @@
+@font-face {
+  font-family: 'Futura-CondensedBold';
+  src:  url('fonts/Futura_Condensed_Bold.eot?2gatwr');
+  src:  url('fonts/Futura_Condensed_Bold.eot?2gatwr#iefix') format('embedded-opentype'),
+    url('fonts/Futura_Condensed_Bold.ttf?2gatwr') format('truetype'),
+    url('fonts/Futura_Condensed_Bold.woff?2gatwr') format('woff'),
+    url('fonts/Futura_Condensed_Bold.svg?2gatwr#Futura-CondensedBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Futura-CondensedBold' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-top:before {
+  content: "\e90a";
+  color: #fff;
+}
+.icon-arrow-left:before {
+  content: "\e90b";
+  color: #fff;
+}
+.icon-arrow-right:before {
+  content: "\e90c";
+  color: #fff;
+}
+.icon-collec .path1:before {
+  content: "\e90d";
+  color: rgb(222, 199, 255);
+}
+.icon-collec .path2:before {
+  content: "\e90e";
+  margin-left: -1.111328125em;
+  color: rgb(92, 39, 254);
+}
+.icon-collec .path3:before {
+  content: "\e90f";
+  margin-left: -1.111328125em;
+  color: rgb(222, 199, 255);
+}
+.icon-collec .path4:before {
+  content: "\e910";
+  margin-left: -1.111328125em;
+  color: rgb(92, 39, 254);
+}
+.icon-collec .path5:before {
+  content: "\e911";
+  margin-left: -1.111328125em;
+  color: rgb(92, 39, 254);
+}
+.icon-collec .path6:before {
+  content: "\e912";
+  margin-left: -1.111328125em;
+  color: rgb(222, 199, 255);
+}
+.icon-collec .path7:before {
+  content: "\e913";
+  margin-left: -1.111328125em;
+  color: rgb(222, 199, 255);
+}
+.icon-collec .path8:before {
+  content: "\e914";
+  margin-left: -1.111328125em;
+  color: rgb(92, 39, 254);
+}
+.icon-collec .path9:before {
+  content: "\e915";
+  margin-left: -1.111328125em;
+  color: rgb(92, 39, 254);
+}
+.icon-collec .path10:before {
+  content: "\e916";
+  margin-left: -1.111328125em;
+  color: rgb(222, 199, 255);
+}
+.icon-collec .path11:before {
+  content: "\e917";
+  margin-left: -1.111328125em;
+  color: rgb(92, 39, 254);
+}
+.icon-collec .path12:before {
+  content: "\e918";
+  margin-left: -1.111328125em;
+  color: rgb(222, 199, 255);
+}
+.icon-collec .path13:before {
+  content: "\e919";
+  margin-left: -1.111328125em;
+  color: rgb(92, 39, 254);
+}
+.icon-collec .path14:before {
+  content: "\e91a";
+  margin-left: -1.111328125em;
+  color: rgb(222, 199, 255);
+}
+.icon-collec .path15:before {
+  content: "\e91b";
+  margin-left: -1.111328125em;
+  color: rgb(222, 199, 255);
+}
+.icon-collec .path16:before {
+  content: "\e91c";
+  margin-left: -1.111328125em;
+  color: rgb(92, 39, 254);
+}
+.icon-collec .path17:before {
+  content: "\e91d";
+  margin-left: -1.111328125em;
+  color: rgb(92, 39, 254);
+}
+.icon-collec .path18:before {
+  content: "\e91e";
+  margin-left: -1.111328125em;
+  color: rgb(92, 39, 254);
+}
+.icon-collec .path19:before {
+  content: "\e91f";
+  margin-left: -1.111328125em;
+  color: rgb(0, 227, 255);
+}
+.icon-collec .path20:before {
+  content: "\e920";
+  margin-left: -1.111328125em;
+  color: rgb(0, 227, 255);
+}
+.icon-collec .path21:before {
+  content: "\e921";
+  margin-left: -1.111328125em;
+  color: rgb(0, 227, 255);
+}
+.icon-collec .path22:before {
+  content: "\e922";
+  margin-left: -1.111328125em;
+  color: rgb(0, 227, 255);
+}
+.icon-collec .path23:before {
+  content: "\e923";
+  margin-left: -1.111328125em;
+  color: rgb(0, 227, 255);
+}
+.icon-collec .path24:before {
+  content: "\e924";
+  margin-left: -1.111328125em;
+  color: rgb(0, 227, 255);
+}
+.icon-collec .path25:before {
+  content: "\e925";
+  margin-left: -1.111328125em;
+  color: rgb(0, 227, 255);
+}
+.icon-collec .path26:before {
+  content: "\e926";
+  margin-left: -1.111328125em;
+  color: rgb(0, 227, 255);
+}
+.icon-collec .path27:before {
+  content: "\e927";
+  margin-left: -1.111328125em;
+  color: rgb(0, 227, 255);
+}
+.icon-collection:before {
+  content: "\e928";
+}
+.icon-community:before {
+  content: "\e929";
+}
+.icon-date:before {
+  content: "\e92a";
+}
+.icon-facebook:before {
+  content: "\e92b";
+  color: #fff;
+}
+.icon-image:before {
+  content: "\e92c";
+}
+.icon-linkedin:before {
+  content: "\e92d";
+  color: #fff;
+}
+.icon-nft .path1:before {
+  content: "\e92e";
+  color: rgb(0, 227, 255);
+}
+.icon-nft .path2:before {
+  content: "\e92f";
+  margin-left: -0.9501953125em;
+  color: rgb(0, 208, 255);
+}
+.icon-nft .path3:before {
+  content: "\e930";
+  margin-left: -0.9501953125em;
+  color: rgb(134, 95, 255);
+}
+.icon-nft .path4:before {
+  content: "\e931";
+  margin-left: -0.9501953125em;
+  color: rgb(92, 39, 254);
+}
+.icon-nft .path5:before {
+  content: "\e932";
+  margin-left: -0.9501953125em;
+  color: rgb(7, 10, 41);
+}
+.icon-nft .path6:before {
+  content: "\e933";
+  margin-left: -0.9501953125em;
+  color: rgb(7, 10, 41);
+}
+.icon-nft .path7:before {
+  content: "\e934";
+  margin-left: -0.9501953125em;
+  color: rgb(7, 10, 41);
+}
+.icon-nft .path8:before {
+  content: "\e935";
+  margin-left: -0.9501953125em;
+  color: rgb(7, 10, 41);
+}
+.icon-nft .path9:before {
+  content: "\e936";
+  margin-left: -0.9501953125em;
+  color: rgb(222, 199, 255);
+}
+.icon-nft .path10:before {
+  content: "\e937";
+  margin-left: -0.9501953125em;
+  color: rgb(252, 168, 99);
+}
+.icon-nft .path11:before {
+  content: "\e938";
+  margin-left: -0.9501953125em;
+  color: rgb(121, 134, 232);
+}
+.icon-nft .path12:before {
+  content: "\e939";
+  margin-left: -0.9501953125em;
+  color: rgb(76, 92, 225);
+}
+.icon-plan:before {
+  content: "\e93a";
+  color: #fff;
+}
+.icon-quality:before {
+  content: "\e93b";
+}
+.icon-resource:before {
+  content: "\e93c";
+}
+.icon-search:before {
+  content: "\e93d";
+}
+.icon-trading:before {
+  content: "\e93e";
+}
+.icon-twiter:before {
+  content: "\e93f";
+  color: #fff;
+}
+.icon-users:before {
+  content: "\e940";
+}
+.icon-wallet .path1:before {
+  content: "\e941";
+  color: rgb(29, 232, 241);
+}
+.icon-wallet .path2:before {
+  content: "\e942";
+  margin-left: -0.9501953125em;
+  color: rgb(0, 208, 255);
+}
+.icon-wallet .path3:before {
+  content: "\e943";
+  margin-left: -0.9501953125em;
+  color: rgb(0, 187, 255);
+}
+.icon-wallet .path4:before {
+  content: "\e944";
+  margin-left: -0.9501953125em;
+  color: rgb(185, 162, 255);
+}
+.icon-wallet .path5:before {
+  content: "\e945";
+  margin-left: -0.9501953125em;
+  color: rgb(134, 95, 255);
+}
+.icon-wallet .path6:before {
+  content: "\e946";
+  margin-left: -0.9501953125em;
+  color: rgb(92, 39, 254);
+}
+.icon-wallet .path7:before {
+  content: "\e947";
+  margin-left: -0.9501953125em;
+  color: rgb(121, 134, 232);
+}
+.icon-wallet .path8:before {
+  content: "\e948";
+  margin-left: -0.9501953125em;
+  color: rgb(110, 119, 229);
+}
+.icon-wallet .path9:before {
+  content: "\e949";
+  margin-left: -0.9501953125em;
+  color: rgb(76, 92, 225);
+}
+.icon-youtobe:before {
+  content: "\e94a";
+  color: #fff;
+}
+.icon-plus:before {
+  content: "\e900";
+  color: #fff;
+}
+.icon-logo-01:before {
+  content: "\e909";
+  color: #fff;
+}
+.icon-logo-02:before {
+  content: "\e901";
+  color: #fff;
+}
+.icon-logo-03:before {
+  content: "\e902";
+  color: #fff;
+}
+.icon-logo-04:before {
+  content: "\e903";
+  color: #fff;
+}
+.icon-logo-05 .path1:before {
+  content: "\e904";
+  color: rgb(255, 255, 255);
+}
+.icon-logo-05 .path2:before {
+  content: "\e905";
+  margin-left: -0.97265625em;
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+}
+.icon-logo-05 .path3:before {
+  content: "\e906";
+  margin-left: -0.97265625em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo-05 .path4:before {
+  content: "\e907";
+  margin-left: -0.97265625em;
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+}
+.icon-logo-06:before {
+  content: "\e908";
+  color: #fff;
+}
+
+/**Designer**/
+
+
+#container-stars {
+  position: fixed;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  -webkit-backdrop-filter: blur(1rem);
+          backdrop-filter: blur(1rem);
+  border-radius: 5rem;
+}
+
+strong {
+  z-index: 2;
+  font-family: 'Avalors Personal Use';
+  font-size: 12px;
+  letter-spacing: 5px;
+  color: #FFFFFF;
+  text-shadow: 0 0 4px white;
+}
+
+#glow {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 12rem;
+}
+
+.circy2 {
+  width: 100%;
+  height: 30px;
+  -webkit-filter: blur(2rem);
+          filter: blur(2rem);
+  -webkit-animation: pulse_3011 4s infinite;
+          animation: pulse_3011 4s infinite;
+  z-index: -1;
+}
+
+.circy2:nth-of-type(1) {
+  background: rgba(254, 83, 186, 0.636);
+}
+
+.circy2:nth-of-type(2) {
+  background: rgba(142, 81, 234, 0.704);
+}
+
+.btnug:hover #container-stars {
+  z-index: 1;
+  background-color: #212121;
+}
+
+.btnug {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 13rem;
+  height: 3rem;
+  background-size: 300% 300%;
+  backdrop-filter: blur(1rem);
+  border-radius: 5rem;
+  transition: 0.5s;
+  border: double 4px transparent;
+  background-image: linear-gradient(#212121, #212121), linear-gradient(137.48deg, #2BCBF1 10%, #2BCBF1 45%, #2BCBF1 67%, #2BCBF1 87%);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+}
+
+.btnug:hover {
+  transform: scale(1.1);
+  background-image: linear-gradient(#212121, #212121), linear-gradient(137.48deg, #d2dddf 10%, #2BCBF1 45%, #14617e 67%, #0e2644 87%);
+  animation: gradient_301 5s ease infinite;
+}
+
+.btnug:active {
+  border: double 4px #FE53BB;
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+  animation: none;
+}
+
+
+.btnug:active .circy2 {
+  background: #FE53BB;
+}
+
+#stars {
+  position: relative;
+  background: transparent;
+  width: 200rem;
+  height: 200rem;
+}
+
+#stars::after {
+  content: "";
+  position: absolute;
+  top: -10rem;
+  left: -100rem;
+  width: 100%;
+  height: 100%;
+  -webkit-animation: animStarRotate 90s linear infinite;
+          animation: animStarRotate 90s linear infinite;
+}
+
+#stars::after {
+  background-image: radial-gradient(#ffffff 1px, transparent 1%);
+  background-size: 50px 50px;
+}
+
+#stars::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -50%;
+  width: 170%;
+  height: 500%;
+  -webkit-animation: animStar 60s linear infinite;
+          animation: animStar 60s linear infinite;
+}
+
+#stars::before {
+  background-image: radial-gradient(#ffffff 1px, transparent 1%);
+  background-size: 50px 50px;
+  opacity: 0.5;
+}
+
+@-webkit-keyframes animStar {
+  from {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+
+  to {
+    -webkit-transform: translateY(-135rem);
+            transform: translateY(-135rem);
+  }
+}
+
+@keyframes animStar {
+  from {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+
+  to {
+    -webkit-transform: translateY(-135rem);
+            transform: translateY(-135rem);
+  }
+}
+
+@-webkit-keyframes animStarRotate {
+  from {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+
+  to {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+}
+
+@keyframes animStarRotate {
+  from {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+
+  to {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+}
+
+@-webkit-keyframes gradient_301 {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes gradient_301 {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@-webkit-keyframes pulse_3011 {
+  0% {
+    -webkit-transform: scale(0.75);
+            transform: scale(0.75);
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+            box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+  }
+
+  70% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    -webkit-box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+            box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+  }
+
+  100% {
+    -webkit-transform: scale(0.75);
+            transform: scale(0.75);
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+            box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+  }
+}
+
+@keyframes pulse_3011 {
+  0% {
+    -webkit-transform: scale(0.75);
+            transform: scale(0.75);
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+            box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+  }
+
+  70% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    -webkit-box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+            box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+  }
+
+  100% {
+    -webkit-transform: scale(0.75);
+            transform: scale(0.75);
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+            box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+  }
+}
+
+
+
+/* star glow snippet (https://uiverse.io/JkHuger/fat-bat-0) */
+
+.btng4w {
+  --cut: 0.1em;
+  --active: 0;
+  --bg: radial-gradient(
+      40% 50% at center 100%,
+      hsl(270 calc(var(--active) * 97%) 72% / var(--active)),
+      transparent
+    ),
+    radial-gradient(
+      80% 100% at center 120%,
+      hsl(260 calc(var(--active) * 97%) 70% / var(--active)),
+      transparent
+    ),
+    hsl(260 calc(var(--active) * 97%) calc((var(--active) * 44%) + 12%));
+  background: var(--bg);
+  font-size: 1.2rem;
+  font-weight: 500;
+  border: 0;
+  cursor: pointer;
+  padding: 1em 1em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 0.25em;
+  white-space: nowrap;
+  border-radius: 100px;
+  position: relative;
+  -webkit-box-shadow: 0 0 calc(var(--active) * 3em) calc(var(--active) * 1em) hsl(260 97% 61% / 0.75),
+    0 0em 0 0 hsl(260 calc(var(--active) * 97%) calc((var(--active) * 50%) + 30%)) inset,
+    0 -0.05em 0 0 hsl(260 calc(var(--active) * 97%) calc(var(--active) * 60%)) inset;
+          box-shadow: 0 0 calc(var(--active) * 3em) calc(var(--active) * 1em) hsl(260 97% 61% / 0.75),
+    0 0em 0 0 hsl(260 calc(var(--active) * 97%) calc((var(--active) * 50%) + 30%)) inset,
+    0 -0.05em 0 0 hsl(260 calc(var(--active) * 97%) calc(var(--active) * 60%)) inset;
+  -webkit-transition: scale var(--transition), background var(--transition), -webkit-box-shadow var(--transition);
+  transition: scale var(--transition), background var(--transition), -webkit-box-shadow var(--transition);
+  transition: box-shadow var(--transition), scale var(--transition), background var(--transition);
+  transition: box-shadow var(--transition), scale var(--transition), background var(--transition), -webkit-box-shadow var(--transition);
+  scale: calc(1 + (var(--active) * 0.1));
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.btng4w:active {
+  scale: 1;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.sparkle path {
+  color: hsl(0 0% calc((var(--active, 0) * 70%) + var(--base)));
+  transform-box: fill-box;
+  -webkit-transform-origin: center;
+      -ms-transform-origin: center;
+          transform-origin: center;
+  fill: currentColor;
+  stroke: currentColor;
+  -webkit-animation-delay: calc((var(--transition) * 1.5) + (var(--delay) * 1s));
+          animation-delay: calc((var(--transition) * 1.5) + (var(--delay) * 1s));
+  -webkit-animation-duration: 0.6s;
+          animation-duration: 0.6s;
+  -webkit-transition: color var(--transition);
+  transition: color var(--transition);
+}
+
+.btng4w:is(:hover, :focus-visible) path {
+  -webkit-animation-name: bounce;
+          animation-name: bounce;
+}
+
+@-webkit-keyframes bounce {
+  35%, 65% {
+    scale: var(--scale);
+  }
+}
+
+@keyframes bounce {
+  35%, 65% {
+    scale: var(--scale);
+  }
+}
+
+.sparkle path:nth-of-type(1) {
+  --scale: 0.5;
+  --delay: 0.1;
+  --base: 40%;
+}
+
+.sparkle path:nth-of-type(2) {
+  --scale: 1.5;
+  --delay: 0.2;
+  --base: 20%;
+}
+
+.sparkle path:nth-of-type(3) {
+  --scale: 2.5;
+  --delay: 0.35;
+  --base: 30%;
+}
+
+.btng4w:before {
+  content: "";
+  position: absolute;
+  inset: -0.2em;
+  z-index: -1;
+  border: 0.25em solid hsl(260 97% 50% / 0.5);
+  border-radius: 100px;
+  opacity: var(--active, 0);
+  -webkit-transition: opacity var(--transition);
+  transition: opacity var(--transition);
+}
+
+.spark {
+  position: absolute;
+  inset: 0;
+  border-radius: 100px;
+  rotate: 0deg;
+  overflow: hidden;
+  -webkit-mask: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(50%, transparent));
+  -webkit-mask: linear-gradient(white, transparent 50%);
+          mask: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(50%, transparent));
+          mask: linear-gradient(white, transparent 50%);
+  -webkit-animation: flip calc(var(--spark) * 2) infinite steps(2, end);
+          animation: flip calc(var(--spark) * 2) infinite steps(2, end);
+}
+
+@-webkit-keyframes flip {
+  to {
+    rotate: 360deg;
+  }
+}
+
+@keyframes flip {
+  to {
+    rotate: 360deg;
+  }
+}
+
+.spark:before {
+  content: "";
+  position: absolute;
+  width: 200%;
+  aspect-ratio: 1;
+  top: 0%;
+  left: 50%;
+  z-index: -1;
+  translate: -50% -15%;
+  rotate: 0;
+  -webkit-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+  opacity: calc((var(--active)) + 0.4);
+  background: conic-gradient(
+    from 0deg,
+    transparent 0 340deg,
+    white 360deg
+  );
+  -webkit-transition: opacity var(--transition);
+  transition: opacity var(--transition);
+  -webkit-animation: rotate var(--spark) linear infinite both;
+          animation: rotate var(--spark) linear infinite both;
+}
+
+.spark:after {
+  content: "";
+  position: absolute;
+  inset: var(--cut);
+  border-radius: 100px;
+}
+
+.backdrop {
+  position: absolute;
+  inset: var(--cut);
+  background: var(--bg);
+  border-radius: 100px;
+  -webkit-transition: background var(--transition);
+  transition: background var(--transition);
+}
+
+@-webkit-keyframes rotate {
+  to {
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg);
+  }
+}
+
+@keyframes rotate {
+  to {
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg);
+  }
+}
+
+@supports(selector(:has(:is(+ *)))) {
+  body:has(.btng4w:is(:hover, :focus-visible)) {
+    --active: 1;
+    --play-state: running;
+  }
+
+  .bodydrop {
+    display: none;
+  }
+}
+
+.btng4w:is(:hover, :focus-visible) ~ :is(.bodydrop, .particle-pen) {
+  --active: 1;
+  --play-state: runnin;
+}
+
+.bodydrop {
+  background: hsl(
+    260
+    calc(var(--active) * 97%)
+    6%
+  );
+  position: fixed;
+  inset: 0;
+  z-index: -1
+}
+
+.btng4w:is(:hover, :focus-visible) {
+  --active: 1;
+  --play-state: running;
+}
+
+.sparkle-.btng4w {
+  position: relative;
+}
+
+.particle-pen {
+  position: absolute;
+  width: 200%;
+  aspect-ratio: 1;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  -webkit-mask: radial-gradient(white, transparent 65%);
+  z-index: -1;
+  opacity: var(--active, 0);
+  -webkit-transition: opacity var(--transition);
+  transition: opacity var(--transition);
+}
+
+.particle {
+  fill: white;
+  width: calc(var(--size, 0.25) * 1rem);
+  aspect-ratio: 1;
+  position: absolute;
+  top: calc(var(--y) * 1%);
+  left: calc(var(--x) * 1%);
+  opacity: var(--alpha, 1);
+  -webkit-animation: float-out calc(var(--duration, 1) * 1s) calc(var(--delay) * -1s) infinite linear;
+          animation: float-out calc(var(--duration, 1) * 1s) calc(var(--delay) * -1s) infinite linear;
+  -webkit-transform-origin: var(--origin-x, 1000%) var(--origin-y, 1000%);
+      -ms-transform-origin: var(--origin-x, 1000%) var(--origin-y, 1000%);
+          transform-origin: var(--origin-x, 1000%) var(--origin-y, 1000%);
+  z-index: -1;
+  -webkit-animation-play-state: var(--play-state, paused);
+          animation-play-state: var(--play-state, paused);
+}
+
+.particle path {
+  fill: hsl(0 0% 90%);
+  stroke: none;
+}
+
+.particle:nth-of-type(even) {
+  animation-direction: reverse;
+}
+
+@-webkit-keyframes float-out {
+  to {
+    rotate: 360deg;
+  }
+}
+
+@keyframes float-out {
+  to {
+    rotate: 360deg;
+  }
+}
+
+.text {
+  translate: 2% -6%;
+  letter-spacing: 0.01ch;
+  background: -webkit-gradient(linear, left top, right top, from(hsl(0 0% calc((var(--active) * 100%) + 65%))), to(hsl(0 0% calc((var(--active) * 100%) + 26%))));
+  background: linear-gradient(90deg, hsl(0 0% calc((var(--active) * 100%) + 65%)), hsl(0 0% calc((var(--active) * 100%) + 26%)));
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-transition: background var(--transition);
+  transition: background var(--transition);
+}
+
+.btng4w svg {
+  inline-size: 1.25em;
+  translate: -25% -5%;
+}
+
+
+
+
+/* blue glow snippet (https://uiverse.io/mrhyddenn/stale-cheetah-42) */
+
+.btng46 {
+  position: relative;
+  padding: 10px 20px;
+  border-radius: 7px;
+  border: 1px solid rgb(61, 106, 255);
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 2px;
+  background: transparent;
+  color: #fff;
+  overflow: hidden;
+  -webkit-box-shadow: 0 0 0 0 transparent;
+          box-shadow: 0 0 0 0 transparent;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+.btng46:hover {
+  background: rgb(61, 106, 255);
+  -webkit-box-shadow: 0 0 30px 5px rgba(0, 142, 236, 0.815);
+          box-shadow: 0 0 30px 5px rgba(0, 142, 236, 0.815);
+  -webkit-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.btng46:hover::before {
+  -webkit-animation: sh02 0.5s 0s linear;
+  animation: sh02 0.5s 0s linear;
+}
+
+.btng46::before {
+  content: '';
+  display: block;
+  width: 0px;
+  height: 86%;
+  position: absolute;
+  top: 7%;
+  left: 0%;
+  opacity: 0;
+  background: #fff;
+  -webkit-box-shadow: 0 0 50px 30px #fff;
+          box-shadow: 0 0 50px 30px #fff;
+  -webkit-transform: skewX(-20deg);
+  -ms-transform: skewX(-20deg);
+  transform: skewX(-20deg);
+}
+
+@-webkit-keyframes sh02 {
+  from {
+    opacity: 0;
+    left: 0%;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+    left: 100%;
+  }
+}
+
+@keyframes sh02 {
+  from {
+    opacity: 0;
+    left: 0%;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+    left: 100%;
+  }
+}
+
+.btng46:active {
+  -webkit-box-shadow: 0 0 0 0 transparent;
+          box-shadow: 0 0 0 0 transparent;
+  -webkit-transition: box-shadow 0.2s ease-in;
+  -webkit-transition: -webkit-box-shadow 0.2s ease-in;
+  transition: -webkit-box-shadow 0.2s ease-in;
+  transition: box-shadow 0.2s ease-in;
+  transition: box-shadow 0.2s ease-in, -webkit-box-shadow 0.2s ease-in;
+}
+
+
+
+/* purple indent snippet (https://uiverse.io/bandirevanth/sweet-bobcat-36) */
+
+.custom-btn {
+ width: 130px;
+ height: 40px;
+ color: #fff;
+ border-radius: 5px;
+ padding: 10px 25px;
+ font-family: 'Lato', sans-serif;
+ font-weight: 500;
+ background: transparent;
+ cursor: pointer;
+ -webkit-transition: all 0.3s ease;
+ transition: all 0.3s ease;
+ position: relative;
+ display: inline-block;
+ -webkit-box-shadow: inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+         box-shadow: inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+ outline: none;
+}
+
+.btn-1 {
+ background: rgb(96,9,240);
+ background: -webkit-gradient(linear, left bottom, left top, from(rgba(96,9,240,1)), to(rgba(129,5,240,1)));
+ background: linear-gradient(0deg, rgba(96,9,240,1) 0%, rgba(129,5,240,1) 100%);
+ border: none;
+}
+
+.btn-1:before {
+ height: 0%;
+ width: 2px;
+}
+
+.btn-1:hover {
+ -webkit-box-shadow: 4px 4px 6px 0 rgba(255,255,255,.5),
+              -4px -4px 6px 0 rgba(116, 125, 136, .5), 
+    inset -4px -4px 6px 0 rgba(255,255,255,.2),
+    inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+         box-shadow: 4px 4px 6px 0 rgba(255,255,255,.5),
+              -4px -4px 6px 0 rgba(116, 125, 136, .5), 
+    inset -4px -4px 6px 0 rgba(255,255,255,.2),
+    inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+}
